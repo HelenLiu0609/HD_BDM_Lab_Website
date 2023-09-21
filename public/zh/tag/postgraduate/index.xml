@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postgraduate | HD BBM 的实验室</title>
+    <link>https://chuan-peng-lab.netlify.app/zh/tag/postgraduate/</link>
+      <atom:link href="https://chuan-peng-lab.netlify.app/zh/tag/postgraduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Postgraduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuan-peng-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <title>Postgraduate</title>
+      <link>https://chuan-peng-lab.netlify.app/zh/tag/postgraduate/</link>
+    </image>
+    
+    <item>
+      <title>伍嘉琪</title>
+      <link>https://chuan-peng-lab.netlify.app/zh/project/wjq/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://chuan-peng-lab.netlify.app/zh/project/wjq/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学在读&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;羽毛球(又菜又爱打)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>温佳慧</title>
+      <link>https://chuan-peng-lab.netlify.app/zh/project/wjh/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuan-peng-lab.netlify.app/zh/project/wjh/</guid>
+      <description>&lt;p&gt;阴天爱好者，猫头鹰型选手，活跃在每天凌晨两点半。工作时带着*ntj的面具，本质intp。间歇性凌云壮志，努力不混吃等死。&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学，基础心理学硕士在读&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;道德，建模，元分析&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;R基本统计分析，R meta包、meta for包的使用，实验室相关资源的使用与管理.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
