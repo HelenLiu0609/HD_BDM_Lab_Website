@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>如何安装HDDM(基于windows下 docker 和 linux)</title>
+      <title>How to install HDDM (suitable for docker and linux)</title>
       <link>https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/</link>
       <pubDate>Wed, 14 Jun 2023 13:01:27 +0800</pubDate>
       <guid>https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/</guid>
@@ -44,14 +44,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_f454fd8729183b807f7a25dd9512ddea.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_90c23abea89dad254b26e0e76d538756.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_f454fd8729183b807f7a25dd9512ddea.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;275&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b_.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;
@@ -72,14 +65,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_e0a709fc07a34ed6d58166e40c61af3a.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_0c721ca067122856ac500b79e8440c41.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_e0a709fc07a34ed6d58166e40c61af3a.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;517&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 注意：Windows 10 版本 2004 或更高版本才能使用 wsl2。 可以在命令行中使用 winver 查看版本号。
@@ -103,14 +89,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_6f067c299b7948cecc90525c3b282a97.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_1bba4762e24b9dbb82dc4161ac9e750d.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_6f067c299b7948cecc90525c3b282a97.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;458&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;
@@ -131,14 +110,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_3c5fe4f11e1a98ec0ddd4b2aeaf06eb1.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_bb2fdaeec7edcffbbe1688b1a9635e88.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_3c5fe4f11e1a98ec0ddd4b2aeaf06eb1.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;509&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 由于只能装 C 盘，所以直接点 &amp;ldquo;ok&amp;rdquo; 就开始安装了。
@@ -162,14 +134,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_a7fa640a761d37dc04fa117f348c0650.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_f1c246b0bdea3b48cc9770614905436a.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_a7fa640a761d37dc04fa117f348c0650.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;540&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;注销或重启后，点击&amp;quot;接受&amp;quot;协议即可。
@@ -191,14 +156,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_c61e406e83afeadd4eea59922bc5b856.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_500e51d286d1fac228625ffd40e07a91.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_c61e406e83afeadd4eea59922bc5b856.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;467&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__10.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;docker-设置--安装-hddm&#34;&gt;docker 设置 + 安装 HDDM&lt;/h2&gt;
@@ -221,14 +179,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_d67e10fd36fe63060d7573eac0031384.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_ef1e68e05f4ddb8f6c68948969a29aef.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_d67e10fd36fe63060d7573eac0031384.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;434&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__11.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;可选配置数据和镜像源的存放位置--镜像源&#34;&gt;可选：配置数据和镜像源的存放位置 + 镜像源&lt;/h3&gt;
@@ -272,14 +223,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_64341bfbdd9f9526dd9f616736dcf230.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_53fa0f4fe468dd1b4ad2cdb1ccc84049.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_64341bfbdd9f9526dd9f616736dcf230.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;412&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__12.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;可选将-docker-移除-c-盘以节省空间&#34;&gt;可选：将 docker 移除 C 盘，以节省空间&lt;/h3&gt;
@@ -316,14 +260,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_03c0f28857e399f927e111abf97353b6.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_e2801f8e78d62f384d644de69f9e900f.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_03c0f28857e399f927e111abf97353b6.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;434&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__13.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -357,14 +294,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_79777cb7ff4e8f4bbce36b98a6dbd007.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_f8f647a16699b7b6d1aa9f7d395efacb.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_79777cb7ff4e8f4bbce36b98a6dbd007.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;396&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__5.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;也可以通过界面操作启动 
@@ -386,14 +316,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_660a56cd1a169ae9f4b46f55af2d872b.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_0bec5dd19f5001f9d06071c134175229.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_660a56cd1a169ae9f4b46f55af2d872b.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;249&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;新建一个 notebook
@@ -415,14 +338,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_6a4ef1e952260b1cb1f6f61b49ed90ae.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_85ee46047dc7d9e84cf2ccb483daa109.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_6a4ef1e952260b1cb1f6f61b49ed90ae.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;174&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__7.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;导入 hddm 进行测试
@@ -444,14 +360,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1594ebe77145eec53970dbe45ddbd56f.webp 400w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_4c584d3827e39730e2b2244bcedf5b3b.webp 760w,
-               /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1594ebe77145eec53970dbe45ddbd56f.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;573&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../../zh/post/HDDM_Installation_tutorial/HDDM%e5%ae%89%e8%a3%85%e6%95%99%e7%a8%8b__8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -545,66 +454,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;model&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sample&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;model&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gen_stats&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Most data are available upon request: A case report</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/post/post_230520/</link>
-      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/post/post_230520/</guid>
-      <description>
-
-
-&lt;p&gt;&lt;em&gt;This post is written by Mengzhen Hu&lt;/em&gt;&lt;br /&gt;
-&lt;br&gt;
-Open data is a growing trend among academic journals. Authors can either posit their data on an open repository or leave a statement “Data is available upon (reasonable) request”. Recently, a few papers checked whether “Data is available upon request”. A recent preprint in social psychology, among other published studies, depicted a quit bleak picture that “Data is not available upon request” (Gabelica et al., 2022; Hussey, 2023; Tedersoo et al., 2021).
-To add some anecdote data to the topic about “Data available upon request” statement, we also share our experience in request data here.&lt;/p&gt;
-&lt;div id=&#34;background&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Background&lt;/h3&gt;
-&lt;p&gt;I am involved in two ongoing and interconnected projects. The first project focuses on conducting a meta-analysis of articles that have employed the Self-perceptual matching task (SPMT) paradigm. The second project aims to assess the reliability of the SPMT paradigm by reanalyzing research data in published studies. To strengthen the persuasiveness of our findings, the second project requires us to search for publicly available data within the database established from the first project (see our preregistration: &lt;a href=&#34;https://osf.io/zv628&#34; class=&#34;uri&#34;&gt;https://osf.io/zv628&lt;/a&gt;).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;more-datasets-are-available-after-2018&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;More datasets are available after 2018&lt;/h3&gt;
-&lt;p&gt;Our meta-analysis database covers a total of 136 articles citing Sui et al. (2012) from 2013 to 2021 (it should be noted that articles from 2021 may not be included in the database). Among these 136 articles, only 27 claim to have publicly available data. Within these 27 articles, 21 directly provide original data through links in their papers. However, out of these 21 articles, one of them includes an OSF address in their paper, yet it does not contain any data. Furthermore, the remaining 6 articles mention that “Data is available upon request.”&lt;/p&gt;
-&lt;img src=&#34;230520_fig1.png&#34; /&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-Figure 1. Number of Paper with or without open data
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;more-open-data-than-upon-request&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;More open data than “upon request”&lt;/h3&gt;
-&lt;p&gt;In our reliability project, we selected articles that are only slightly deviated from the original paradigm. That said, we need to get access to data from 14 articles (see our preregistration for details).
-Among these articles, 9 of them provided links in papers. One of the nine links was empty. We reached out to authors via email, so far, no changes on OSF page.
-The remaining 5 articles stated that “Data is available upon request”.&lt;/p&gt;
-&lt;img src=&#34;230520_fig2.png&#34; /&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-Figure 2. Data is already public or upon request
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;of-data-are-available-upon-request&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;60% of data are available upon request&lt;/h3&gt;
-&lt;p&gt;For those 5 papers, we sent emails and received responses from each author. Among them, three authors (60%) directly provided trial-level data, allowing us to use this data for our purpose. Additionally, two authors provided average values of participants under different experimental conditions.
-In a sense, all the articles claiming ‘Data is available upon request’ have provided us with data, though not all data are useful for our purpose.&lt;/p&gt;
-&lt;img src=&#34;230520_fig3.png&#34; /&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;
-Figure 3. Feedback Data After Request
-&lt;/p&gt;
-&lt;p&gt;Overall, the process of requesting data from original authors was relatively smooth, with the majority of authors responding promptly and being willing to share their data. Although two authors provided only individuals’ summary data due to various reasons, these data might be of use for meta-analysis.
-In our experience, most of authors have a positive attitude towards data sharing and are willing to respond to our requests. However, not all trial-level data are available, as some authors may encounter technical issues or lack of time.&lt;br /&gt;
-&lt;br&gt;
-As an early career researcher who request data for the first time, I have learned three lessons. (1), write the emails well. I refer the article published in Science (Gruber et al., 2020) on how to write emails. (2), provide as much information about why you need the data as possible. In our case, our protocol and code are already open on GitHub (&lt;a href=&#34;https://github.com/Chuan-Peng-Lab/ReliabilitySPE&#34; class=&#34;uri&#34;&gt;https://github.com/Chuan-Peng-Lab/ReliabilitySPE&lt;/a&gt;), and we included it in all our emails. (3), update the authors’ email through searching. As mentioned by Hussey (2023) in their article, the email addresses provided in many papers may be incorrect and unable to reach the authors. We searched for authors’ information on Google Scholar and found their latest publications and obtain their currently used email address.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;reference&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Reference&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Gabelica, M., et al. (2022). Many researchers were not compliant with their published data sharing statement: a mixed-methods study. Journal of Clinical Epidemiology, 150, 33-41. &lt;a href=&#34;https://doi.org/10.1016/j.jclinepi.2022.05.019&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1016/j.jclinepi.2022.05.019&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Gruber, J., et al. (2020). A scientist’s guide to email etiquette. Science. &lt;a href=&#34;https://doi.org/10.1126/science.caredit.abb2664&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1126/science.caredit.abb2664&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Hussey, I. (2023). Data is not available upon request. &lt;a href=&#34;https://psyarxiv.com/jbu9r/&#34; class=&#34;uri&#34;&gt;https://psyarxiv.com/jbu9r/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Sui, J., et al. (2012). Perceptual effects of social salience: Evidence from self-prioritization effects on perceptual matching. Journal of experimental psychology. Human perception and performance, 38(5), 1105-1117. &lt;a href=&#34;https://doi.org/10.1037/a0029792&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1037/a0029792&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Tedersoo, L., et al. (2021). Data sharing practices and data availability upon request differ across scientific disciplines. Scientific data, 8(1), 192. &lt;a href=&#34;https://doi.org/10.1038/s41597-021-00981-0&#34; class=&#34;uri&#34;&gt;https://doi.org/10.1038/s41597-021-00981-0&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
     </item>
     
     <item>

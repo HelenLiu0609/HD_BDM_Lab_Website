@@ -5,7 +5,7 @@
     <link>https://hd-bdm-lab.netlify.app/zh/project/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/zh/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,79 +13,171 @@
     </image>
     
     <item>
-      <title>伍嘉琪</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/wjq/</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/wjq/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学在读&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;羽毛球(又菜又爱打)&lt;/em&gt;&lt;/p&gt;
+      <title>Xiaotian Wang</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/xiaotian-wang/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/xiaotian-wang/</guid>
+      <description>&lt;h2 id=&#34;blank&#34;&gt;&lt;blank&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&#34;font-size: 18px;&#34;&gt;I&amp;rsquo;m a professor and the director of the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), a fellow of the Psychonomic Society, and a &amp;ldquo;high-level foreign expert&amp;rdquo; endorsed by the People&amp;rsquo;s Government of Shenzhen Municipality. I&amp;rsquo;m also a professor emeritus at the University of South Dakota. I was a visiting or adjunct professor at Peking University, China Europe International Business School, Max Planck Institute in Berlin, Germany, Hong Kong University of Science and Technology, and Singapore Management University.&lt;/span&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;blank-1&#34;&gt;&lt;blank&gt;&lt;/h2&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+    &lt;strong style=&#34;font-size: 27px;&#34;&gt;Research Interests:&lt;/strong&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-circle  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Behavioral decision making&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-circle  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Risk management&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-circle  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Evolutionary psychology&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-circle  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Neuroscience of self-control&lt;/span&gt;&lt;br&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+    &lt;strong style=&#34;font-size: 27px;&#34;&gt;Education:&lt;/strong&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; PhD in Cognitive Psychology, New Mexico State University, USA&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MA, New Mexico State University, USA&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; MS, Medical School of Jinan University&lt;/span&gt;&lt;br&gt;
+    &lt;span style=&#34;font-size: 18px;&#34;&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; BA, Beijing Medical Collage/Medical School of Peking University&lt;/span&gt;&lt;br&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;strong-stylefont-size-27pxlateststrong&#34;&gt;&lt;strong style=&#34;font-size: 27px;&#34;&gt;Latest:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&#34;font-size: 18px;&#34;&gt;Lu, J., Yao, J., Zhou, Z., &amp;amp; Wang*, XT (XiaoTian) (2023). Age effects on delay discounting across the lifespan: A meta-analytical approach to theory comparison and model development. Psychological Bulletin, 149 (7–8), 447–486. 00332909. &lt;a href=&#34;https://doi.org/10.1037/bul0000396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1037/bul0000396&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>温佳慧</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/wjh/</link>
-      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/wjh/</guid>
-      <description>&lt;p&gt;阴天爱好者，猫头鹰型选手，活跃在每天凌晨两点半。工作时带着*ntj的面具，本质intp。间歇性凌云壮志，努力不混吃等死。&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学，基础心理学硕士在读&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;道德，建模，元分析&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;R基本统计分析，R meta包、meta for包的使用，实验室相关资源的使用与管理.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>刘铮 Helen</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/lz/</link>
+      <title>Zheng Liu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/zhengliu/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/lz/</guid>
-      <description>&lt;p&gt;一个不吃辣的川渝人。目前希望能在科研路上多多闯荡（早日躺平）。逐渐感受到编程的快乐，平时不是在debug，就是在写bug的路上。 业余爱好：看海、看雪、煲汤、写伤痛文学和晒太阳。&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;香港中文大学（深圳），应用心理学博士生一年级在读&lt;/em&gt;&lt;br&gt;
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/zhengliu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Ed. in Educational Psychology University of Sydney (USYD)&lt;/em&gt;&lt;br&gt;
 
-  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;跨期决策；风险决策；自我信息加工；元研究；理论构建&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;R：使用ggplot2绘图、使用tidyverse数据清洗、使用R做简单的simulation&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;GitHub：项目管理，版本控制，readme，个人主页构建&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;学术论文相关：预注册报告撰写与提交、文献管理软件endnote使用、礼貌邮件格式，代下文献/书籍&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;一些实用技能：澳洲G3（悉大墨大澳国立）、加拿大G3（多大ubc麦吉尔）、香港中文（深圳）心理学相关项目申请咨询（一些浅薄经验），帮看PS、套瓷信(需提前约）&lt;/em&gt;&lt;/p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;B.Sc. in Psychology Australian National University (ANU) &amp;amp; Southwest University (SWU)&lt;/em&gt;&lt;br&gt;
+I&amp;rsquo;m currently a Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and social decision-making. I&amp;rsquo;m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>YuKi (胡孟真)</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/hmz/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/hmz/</guid>
-      <description>&lt;p&gt;不喜欢文学和艺术的理科生不是好程序员&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学，应用心理学硕士在读&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-heart  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Questionnaire, TidyCodes, PC, Anime&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;R Packages on GitHub: &amp;ldquo;yuki-961004/yukiSH&amp;rdquo; &amp;amp; &amp;ldquo;yuki-961004/yukiBP&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Honestly, I&amp;rsquo;m really best at is SEM&lt;/em&gt;&lt;/p&gt;
+      <title>Biyue Yu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/biyue-yu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/biyue-yu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Decision making, Cognitive psychology, Counseling&lt;/em&gt;&lt;br&gt;
+Kpop, dancing, piano, guzheng, music, photography, learn about different cultures, ancient cultures.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>孙禾嘉</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/shj/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/shj/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://sengokucola.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;千石可乐的博客&lt;/a&gt;&lt;br&gt;
-想去探索所有令人感动的事物&lt;/p&gt;
-&lt;p&gt;
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学心理学院&lt;/em&gt;&lt;/p&gt;
+      <title>Feng Xiao</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/feng-xiao/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/feng-xiao/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;behavioral Science, Cognitive Functioning, Decision-making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jin Wang</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/jinwang/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/jinwang/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Decision making, Anticipatory emotion&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jingyi Fang</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/jingyi-fang/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/jingyi-fang/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Social media, Episodic future thinking&lt;/em&gt;&lt;br&gt;
+Photography, badminton, calligraphy, BRPG, music, and everything rational plus romantic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qimei Peng</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/qimei-peng/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/qimei-peng/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Brain mechanisms of Meditation, Intertemporal decision making&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rongman Sun</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/rongman-sun/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/rongman-sun/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Developmental psychology, Mental health of children and adolesences&lt;/em&gt;&lt;br&gt;
+Traveling, movies, badminton, piano, dancing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siying Yu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/siying-yu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/siying-yu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Consumer behavior&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xihan Hu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/xihan-hu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/xihan-hu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Moraility, Dishonesty, Decision making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuche Chen</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/yuche-chen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/yuche-chen/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zhengqian Li</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/zhengqian-li/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/zhengqian-li/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Menetal Health&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zhonghan Wang</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/zhonghan-wang/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/zhonghan-wang/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;risk factors (e.g. stress) and protective factors (e.g. coping) of negative outcomes (e.g. suicide), Decision making, Life history theory&lt;/em&gt;&lt;br&gt;
+Table tennis, music drama, board role-playing games.&lt;/p&gt;
 </description>
     </item>
     

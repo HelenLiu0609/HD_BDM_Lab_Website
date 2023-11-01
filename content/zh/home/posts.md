@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
-title: 博文
+title: 新闻
 subtitle:
 
 content:

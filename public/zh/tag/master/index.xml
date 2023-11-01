@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master | HD BBM 的实验室</title>
+    <link>https://hd-bdm-lab.netlify.app/zh/tag/master/</link>
+      <atom:link href="https://hd-bdm-lab.netlify.app/zh/tag/master/index.xml" rel="self" type="application/rss+xml" />
+    <description>Master</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <title>Master</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/tag/master/</link>
+    </image>
+    
+    <item>
+      <title>Siying Yu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/en/project/siying-yu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/siying-yu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Consumer behavior&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Siying Yu</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/siying-yu/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/siying-yu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Consumer behavior&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuche Chen</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/en/project/yuche-chen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/yuche-chen/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yuche Chen</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/yuche-chen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/yuche-chen/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

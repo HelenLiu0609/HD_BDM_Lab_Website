@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 60
 
 title: 联系我们
 subtitle:
@@ -27,12 +27,12 @@ content:
   # Contact details (edit or remove options as required)
   email: email
   address:
-    street: 地址
-    city: 城市
-    region: 省份
-    postcode: '邮编'
-    country: 国家
-    country_code: 国家缩写
+    street: street
+    city: city
+    region: region
+    postcode: 'postcode'
+    country: country
+    country_code: country_code
   coordinates:
     latitude: '32.03'
     longitude: '118.46'

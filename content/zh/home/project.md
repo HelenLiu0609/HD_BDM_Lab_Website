@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: 团队
+title: 成员
 subtitle: ''
 
 content:
@@ -27,15 +27,15 @@ content:
   filter_button:
     - name: PI
       tag: Principal Investigator
+    - name: 博士
+      tag: PhD
+    - name: 硕士
+      tag: Master
     - name: 研究助理
-      tag: Research Assistants
-    - name: 研究生
-      tag: Postgraduate 
-    - name: 本科生
-      tag: Undergraduate
-    - name: 毕业的成员
-      tag: Alumni
-    - name: 所有人
+      tag: RA
+    - name: 毕业生
+      tag: 所有人
+    - name: All
       tag: '*'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
