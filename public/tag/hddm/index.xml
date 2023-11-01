@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HDDM | HD BDM Lab</title>
-    <link>https://chuan-peng-lab.netlify.app/tag/hddm/</link>
-      <atom:link href="https://chuan-peng-lab.netlify.app/tag/hddm/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hd-bdm-lab.netlify.app/tag/hddm/</link>
+      <atom:link href="https://hd-bdm-lab.netlify.app/tag/hddm/index.xml" rel="self" type="application/rss+xml" />
     <description>HDDM</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Jun 2023 13:01:27 +0800</lastBuildDate>
     <image>
-      <url>https://chuan-peng-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
       <title>HDDM</title>
-      <link>https://chuan-peng-lab.netlify.app/tag/hddm/</link>
+      <link>https://hd-bdm-lab.netlify.app/tag/hddm/</link>
     </image>
     
     <item>
       <title>How to install HDDM (suitable for docker and linux)</title>
-      <link>https://chuan-peng-lab.netlify.app/post/hddm_installation_tutorial/</link>
+      <link>https://hd-bdm-lab.netlify.app/post/hddm_installation_tutorial/</link>
       <pubDate>Wed, 14 Jun 2023 13:01:27 +0800</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/post/hddm_installation_tutorial/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/post/hddm_installation_tutorial/</guid>
       <description>&lt;p&gt;本文将介绍两种在 windows 平台下安装 HDDM(0.9.8) 的方法。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;主要通过 wsl2 安装 docker 或者 linux 环境&lt;/li&gt;

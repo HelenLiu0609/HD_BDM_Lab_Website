@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HD BBM 的实验室</title>
-    <link>https://chuan-peng-lab.netlify.app/zh/</link>
-      <atom:link href="https://chuan-peng-lab.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hd-bdm-lab.netlify.app/zh/</link>
+      <atom:link href="https://hd-bdm-lab.netlify.app/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>HD BBM 的实验室</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chuan-peng-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
       <title>HD BBM 的实验室</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/</link>
     </image>
     
     <item>
       <title>伍嘉琪</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/project/wjq/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/wjq/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/project/wjq/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/wjq/</guid>
       <description>&lt;p&gt;
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学在读&lt;/em&gt;&lt;br&gt;
 
@@ -26,9 +26,9 @@
     
     <item>
       <title>A cognitive ontological dataset for neuroimaging studies of self-reference</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_sun/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_sun/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_sun/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_sun/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -44,9 +44,9 @@
     
     <item>
       <title>如何安装HDDM(基于windows下 docker 和 linux)</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/</link>
       <pubDate>Wed, 14 Jun 2023 13:01:27 +0800</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/</guid>
       <description>&lt;p&gt;本文将介绍两种在 windows 平台下安装 HDDM(0.9.8) 的方法。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;主要通过 wsl2 安装 docker 或者 linux 环境&lt;/li&gt;
@@ -78,7 +78,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_f454fd8729183b807f7a25dd9512ddea.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_90c23abea89dad254b26e0e76d538756.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_f454fd8729183b807f7a25dd9512ddea.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__hu42575f5ebce503a8d25d2bb51b326f88_107718_f454fd8729183b807f7a25dd9512ddea.webp&#34;
                width=&#34;760&#34;
                height=&#34;275&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -106,7 +106,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_e0a709fc07a34ed6d58166e40c61af3a.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_0c721ca067122856ac500b79e8440c41.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_e0a709fc07a34ed6d58166e40c61af3a.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__1_hu14b656de2d5a1fe6f317d34c4f699b23_177090_e0a709fc07a34ed6d58166e40c61af3a.webp&#34;
                width=&#34;760&#34;
                height=&#34;517&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -137,7 +137,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_6f067c299b7948cecc90525c3b282a97.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_1bba4762e24b9dbb82dc4161ac9e750d.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_6f067c299b7948cecc90525c3b282a97.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__9_hub9d84c4b51173d382eed7cc164baf271_545009_6f067c299b7948cecc90525c3b282a97.webp&#34;
                width=&#34;760&#34;
                height=&#34;458&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -165,7 +165,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_3c5fe4f11e1a98ec0ddd4b2aeaf06eb1.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_bb2fdaeec7edcffbbe1688b1a9635e88.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_3c5fe4f11e1a98ec0ddd4b2aeaf06eb1.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__2_hu5afa50073fd1b4fb06fa791b3c9c4646_289372_3c5fe4f11e1a98ec0ddd4b2aeaf06eb1.webp&#34;
                width=&#34;760&#34;
                height=&#34;509&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -196,7 +196,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_a7fa640a761d37dc04fa117f348c0650.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_f1c246b0bdea3b48cc9770614905436a.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_a7fa640a761d37dc04fa117f348c0650.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__3_hu60f81e9d61881b7532bc6268f9d238b0_239621_a7fa640a761d37dc04fa117f348c0650.webp&#34;
                width=&#34;760&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -225,7 +225,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_c61e406e83afeadd4eea59922bc5b856.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_500e51d286d1fac228625ffd40e07a91.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_c61e406e83afeadd4eea59922bc5b856.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__10_hu3781274cf8cda934e65a2dfac00c95a7_612058_c61e406e83afeadd4eea59922bc5b856.webp&#34;
                width=&#34;760&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -255,7 +255,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_d67e10fd36fe63060d7573eac0031384.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_ef1e68e05f4ddb8f6c68948969a29aef.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_d67e10fd36fe63060d7573eac0031384.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__11_hu329bb966a89f4abf724583327b7a677d_152351_d67e10fd36fe63060d7573eac0031384.webp&#34;
                width=&#34;760&#34;
                height=&#34;434&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -306,7 +306,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_64341bfbdd9f9526dd9f616736dcf230.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_53fa0f4fe468dd1b4ad2cdb1ccc84049.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_64341bfbdd9f9526dd9f616736dcf230.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__12_hu062b071e66f8068c69e23a4dabae478b_85476_64341bfbdd9f9526dd9f616736dcf230.webp&#34;
                width=&#34;760&#34;
                height=&#34;412&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -350,7 +350,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_03c0f28857e399f927e111abf97353b6.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_e2801f8e78d62f384d644de69f9e900f.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_03c0f28857e399f927e111abf97353b6.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__13_huc64be0d3283d9b308ef061b3358387d7_172633_03c0f28857e399f927e111abf97353b6.webp&#34;
                width=&#34;760&#34;
                height=&#34;434&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -391,7 +391,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_79777cb7ff4e8f4bbce36b98a6dbd007.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_f8f647a16699b7b6d1aa9f7d395efacb.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_79777cb7ff4e8f4bbce36b98a6dbd007.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__5_hu88a8fee882960b116ee652d7211cb56e_184861_79777cb7ff4e8f4bbce36b98a6dbd007.webp&#34;
                width=&#34;760&#34;
                height=&#34;396&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -420,7 +420,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_660a56cd1a169ae9f4b46f55af2d872b.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_0bec5dd19f5001f9d06071c134175229.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_660a56cd1a169ae9f4b46f55af2d872b.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__6_hu94389e52d74f504cb1d5eaa77326bff0_61811_660a56cd1a169ae9f4b46f55af2d872b.webp&#34;
                width=&#34;760&#34;
                height=&#34;249&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -449,7 +449,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_6a4ef1e952260b1cb1f6f61b49ed90ae.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_85ee46047dc7d9e84cf2ccb483daa109.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_6a4ef1e952260b1cb1f6f61b49ed90ae.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__7_hu853c431e018496eca23204326d1f2c43_52225_6a4ef1e952260b1cb1f6f61b49ed90ae.webp&#34;
                width=&#34;760&#34;
                height=&#34;174&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -478,7 +478,7 @@
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1594ebe77145eec53970dbe45ddbd56f.webp 400w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_4c584d3827e39730e2b2244bcedf5b3b.webp 760w,
                /zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://chuan-peng-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1594ebe77145eec53970dbe45ddbd56f.webp&#34;
+               src=&#34;https://hd-bdm-lab.netlify.app/zh/post/hddm_installation_tutorial/HDDM%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B__8_hu126ea05e2d592fb5afeadafcde195cc0_208547_1594ebe77145eec53970dbe45ddbd56f.webp&#34;
                width=&#34;760&#34;
                height=&#34;573&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -579,9 +579,9 @@
     
     <item>
       <title>Most data are available upon request: A case report</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/post/post_230520/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/post/post_230520/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/post/post_230520/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/post/post_230520/</guid>
       <description>
 
 
@@ -639,9 +639,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>The Chinese Open Science Network (COSN) Building an Open Science Community From Scratch</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_jin/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_jin/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_jin/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_jin/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -657,9 +657,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>Sequential Bayes Factor Analysis Balance Informativeness and Efficiency in Designing Experiments</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_zheng_cn/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_zheng_cn/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/publication/2023_publication_zheng_cn/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_zheng_cn/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -675,9 +675,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>Reliability Assessment of Self-Prioritization Effect as Measured by the Perceptual Matching Task</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/publication/2023_preprint_yuki/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_preprint_yuki/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/publication/2023_preprint_yuki/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_preprint_yuki/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -693,9 +693,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>温佳慧</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/project/wjh/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/wjh/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/project/wjh/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/wjh/</guid>
       <description>&lt;p&gt;阴天爱好者，猫头鹰型选手，活跃在每天凌晨两点半。工作时带着*ntj的面具，本质intp。间歇性凌云壮志，努力不混吃等死。&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学，基础心理学硕士在读&lt;/em&gt;&lt;br&gt;
@@ -708,9 +708,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>刘铮 Helen</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/project/lz/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/lz/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/project/lz/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/lz/</guid>
       <description>&lt;p&gt;一个不吃辣的川渝人。目前希望能在科研路上多多闯荡（早日躺平）。逐渐感受到编程的快乐，平时不是在debug，就是在写bug的路上。 业余爱好：看海、看雪、煲汤、写伤痛文学和晒太阳。&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;香港中文大学（深圳），应用心理学博士生一年级在读&lt;/em&gt;&lt;br&gt;
@@ -729,9 +729,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>YuKi (胡孟真)</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/project/hmz/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/hmz/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/project/hmz/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/hmz/</guid>
       <description>&lt;p&gt;不喜欢文学和艺术的理科生不是好程序员&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;南京师范大学，应用心理学硕士在读&lt;/em&gt;&lt;br&gt;
@@ -746,9 +746,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>孙禾嘉</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/project/shj/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/shj/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/project/shj/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/shj/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://sengokucola.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;千石可乐的博客&lt;/a&gt;&lt;br&gt;
 想去探索所有令人感动的事物&lt;/p&gt;
 &lt;p&gt;
@@ -758,9 +758,9 @@ As an early career researcher who request data for the first time, I have learne
     
     <item>
       <title>How to install and use HDDM</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/post/2019-04-29-how-to-install-and-use-hddm/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/post/2019-04-29-how-to-install-and-use-hddm/</link>
       <pubDate>Mon, 29 Apr 2019 02:13:27 +0800</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/post/2019-04-29-how-to-install-and-use-hddm/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/post/2019-04-29-how-to-install-and-use-hddm/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Feburary 14, 2021 update: Please note that this blog post was outdated because of the updates of Anaconda/miniconda.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;August 2020 update: I&amp;rsquo;ve created a &lt;a href=&#34;https://hub.docker.com/r/hcp4715/hddm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HDDM docker image&lt;/a&gt;, which can be easily installed and used after installing &lt;a href=&#34;https://www.docker.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;docker&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;HDDM is a python package for drift diffusion model (DDM, see &lt;a href=&#34;http://ski.clps.brown.edu/hddm_docs/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ski.clps.brown.edu/hddm_docs/)&lt;/a&gt;. I used it to decompose the reaction time and accuracy data in my recent manuscript: &lt;a rel=&#34;noreferrer noopener&#34; aria-label=&#34;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making (opens in a new tab)&#34; href=&#34;https://psyarxiv.com/9fczh&#34; target=&#34;_blank&#34;&gt;Good Me Bad Me: Does Valence Influence Self-Prioritization During Perceptual Decision-Making&lt;/a&gt;.&lt;/p&gt;
@@ -813,9 +813,9 @@ jupyter lab #(or jupyter notebook if you use jupyter notebook)
     
     <item>
       <title>Distinct and common aspects of physical and psychological self-representation in the brain:A meta-analysis of self-bias in facial and self-referential judgements</title>
-      <link>https://chuan-peng-lab.netlify.app/zh/publication/2015_publication_hu/</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2015_publication_hu/</link>
       <pubDate>Sun, 13 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/publication/2015_publication_hu/</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2015_publication_hu/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -831,9 +831,9 @@ jupyter lab #(or jupyter notebook if you use jupyter notebook)
     
     <item>
       <title></title>
-      <link>https://chuan-peng-lab.netlify.app/zh/admin/config.yml</link>
+      <link>https://hd-bdm-lab.netlify.app/zh/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chuan-peng-lab.netlify.app/zh/admin/config.yml</guid>
+      <guid>https://hd-bdm-lab.netlify.app/zh/admin/config.yml</guid>
       <description></description>
     </item>
     

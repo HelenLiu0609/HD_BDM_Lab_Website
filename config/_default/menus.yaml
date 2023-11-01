@@ -13,11 +13,11 @@ main:
   - name: Publications
     url: '#featured'
     weight: 30
-  - name: Collaborators
-    url: '#accomplishments'
-    weight: 40 
-  - name: Blog Posts
+  - name: News
     url: '#posts'
+    weight: 40
+  - name: Grands
+    url: '#accomplishments'
     weight: 50
   - name: Contact
     url: '#contact'

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ph.D | HD BDM Lab</title>
+    <link>https://chuan-peng-lab.netlify.app/tag/ph.d/</link>
+      <atom:link href="https://chuan-peng-lab.netlify.app/tag/ph.d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ph.D</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuan-peng-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <title>Ph.D</title>
+      <link>https://chuan-peng-lab.netlify.app/tag/ph.d/</link>
+    </image>
+    
+    <item>
+      <title>Helen (Zheng Liu)</title>
+      <link>https://chuan-peng-lab.netlify.app/project/zhengliu/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://chuan-peng-lab.netlify.app/project/zhengliu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Ed. in Educational Psychology University of Sydney (USYD)&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;B.Sc. in Psychology Australian National University (ANU) &amp;amp; Southwest University (SWU)&lt;/em&gt;&lt;br&gt;
+I&amp;rsquo;m currently a Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and social decision-making. I’m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

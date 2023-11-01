@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | HD BDM Lab</title>
+    <link>https://hd-bdm-lab.netlify.app/tag/phd/</link>
+      <atom:link href="https://hd-bdm-lab.netlify.app/tag/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <title>PhD</title>
+      <link>https://hd-bdm-lab.netlify.app/tag/phd/</link>
+    </image>
+    
+    <item>
+      <title>Helen (Zheng Liu)</title>
+      <link>https://hd-bdm-lab.netlify.app/project/zhengliu/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/zhengliu/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Ed. in Educational Psychology University of Sydney (USYD)&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;B.Sc. in Psychology Australian National University (ANU) &amp;amp; Southwest University (SWU)&lt;/em&gt;&lt;br&gt;
+I&amp;rsquo;m currently a Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and social decision-making. I’m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feng Xiao</title>
+      <link>https://hd-bdm-lab.netlify.app/project/feng-xiao/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/feng-xiao/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;behavioral Science, Cognitive Functioning, Decision-making&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jin Wang</title>
+      <link>https://hd-bdm-lab.netlify.app/project/jinwang/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/jinwang/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Decision making, Anticipatory emotion&lt;/em&gt;&lt;br&gt;
+
+  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

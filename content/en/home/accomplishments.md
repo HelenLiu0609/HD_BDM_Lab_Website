@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Collaborators'
+title: 'Grands'
 subtitle:
 
 # Date format
@@ -25,12 +25,12 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2021-01-15'
-    description: 
-    organization: Hangzhou Normal University
+    date_start: '2022-05-30'
+    description: Cognitive mechanisms, coping strategies, brain imaging detection and causal modeling of suicide risk Construction of domestic morms of suicide risk factors and guidelines for assessment and prevention
+    organization: 
     organization_url: 
-    title: Yufeng Zang
-    url: 'https://scholar.google.com.tw/citations?hl=en&user=yOStJacAAAAJ'
+    title: National Natural Science Foundation of Shenzhen JCYJ20220530143803009
+    url: ''
   
   
    

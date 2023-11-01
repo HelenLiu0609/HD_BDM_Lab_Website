@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Team
 subtitle: ''
@@ -27,12 +27,12 @@ content:
   filter_button:
     - name: Principal Investigator
       tag: Principal Investigator
+    - name: Ph.D Students
+      tag: PhD
+    - name: Master Students
+      tag: Master
     - name: Research Assistants
-      tag: Research Assistants
-    - name: Postgraduate
-      tag: Postgraduate 
-    - name: Undergraduate
-      tag: Undergraduate
+      tag: RA
     - name: Alumni
       tag: Alumni
     - name: All
