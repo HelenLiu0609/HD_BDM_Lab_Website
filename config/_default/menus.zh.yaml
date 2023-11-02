@@ -16,6 +16,9 @@ main:
   - name: "<span style='font-size: 20px;'>新闻</span>"
     url: '#posts'
     weight: 40
+  - name: "<span style='font-size: 20px;'>被邀请</span>"
+    url: '#posts_invited_talks'
+    weight: 45    
   - name: "<span style='font-size: 20px;'>基金</span>"
     url: '#accomplishments'
     weight: 50

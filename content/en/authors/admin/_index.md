@@ -24,6 +24,6 @@ title: HD-BDM Lab
 
 <span style="font-size: 24px;">The <strong>HD-BDM Lab</strong> focuses on the study of human development and human decision-making process with rigorous scientific approaches.</span>
 
-<img src="/images/home.jpg" style="max-width: 50%;" alt="Home Image">
+<img src="/images/meeting.jpg" style="max-width: 100%;" alt="Home Image">
 
 

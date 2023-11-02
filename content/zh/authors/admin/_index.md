@@ -23,5 +23,5 @@ title: HD-BDM Lab
 
 <span style="font-size: 24px;"><strong>HD-BDM Lab</strong> 致力于采用严格科学的方法研究人类发展和决策的过程。</span>
 
-<img src="/images/home.jpg" style="max-width: 50%;" alt="Home Image">
+<img src="/images/meeting.jpg" style="max-width: 100%;" alt="Home Image">
 

@@ -16,6 +16,9 @@ main:
   - name: "<span style='font-size: 20px;'>News</span>"
     url: '#posts'
     weight: 40
+  - name: "<span style='font-size: 20px;'>Invited Talks</span>"
+    url: '#posts_invited_talks'
+    weight: 45
   - name: "<span style='font-size: 20px;'>Grands</span>"
     url: '#accomplishments'
     weight: 50
