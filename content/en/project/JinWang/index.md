@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: 
+summary: __Sept-2022 ~ Present__  <br/> Decision making, anticipatory emotion
 tags: 
 - PhD
 title: Jin Wang
@@ -15,6 +15,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+{{< icon name="graduation-cap" pack="fas" >}} _M.Sc. in Applied Psychology, The Chinese University of Hong Kong-Shenzhen_  
+
 {{< icon name="star" pack="fas" >}} _Decision making, Anticipatory emotion_  
-{{< icon name="graduation-cap" pack="fas" >}} _M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)_  
 

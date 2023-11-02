@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Contact
-subtitle:
+title: Contact Us
+subtitle: 
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,22 +25,17 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: email
-  address:
-    street: street
-    city: city
-    region: region
-    postcode: 'postcode'
-    country: country
+  email: xtwang@cuhk.edu.cn
+  address: 
+    street: 2001 Longxiang Boulevard
+    city: Shenzhen
+    region:
+    postcode: '518172'
+    country: China
     country_code: country_code
   coordinates:
     latitude: '32.03'
     longitude: '118.46'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/hcp4715'
 
 design:
   columns: '2'

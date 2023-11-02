@@ -3,7 +3,7 @@ bio: slogan.
 email: "email"
 highlight_name: true
 organizations:
-- name: School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen
+- name: School of Humanities and Social Science, The Chinese University of Hong Kong-Shenzhen
   url: https://hss.cuhk.edu.cn/
 role: 
 social:
@@ -17,7 +17,7 @@ social:
   icon_pack: fas
   link: '#contact'
 superuser: true
-title: HD BDM Lab
+title: HD-BDM Lab
 ---
 
 <span style="font-size: 50px;">Human Development & Behavioral Decision Making Lab</span>

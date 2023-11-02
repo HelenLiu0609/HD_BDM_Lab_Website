@@ -17,7 +17,7 @@ social:
   icon_pack: fas
   link: '#contact'
 superuser: true
-title: HD BDM Lab
+title: HD-BDM Lab
 ---
 
 <span style="font-size: 50px;">Human Development & Behavioral Decision Making Lab</span>

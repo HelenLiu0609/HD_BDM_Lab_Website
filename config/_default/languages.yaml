@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: HD BBM 的实验室
+  title: HD-BBM 实验室
 #  params:
-  description: HD BBM 的实验室
+  description: HD-BBM 实验室
 #  menu:
   main:
   - name: Home

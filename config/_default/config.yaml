@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: HD BDM Lab # Website name
+title: HD-BDM Lab # Website name
 baseURL: 'https://hd-bdm-lab.netlify.app/' # Website URL 
 
 ############################

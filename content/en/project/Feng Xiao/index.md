@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: 
+summary: __Sept-2023 ~ Present__  <br/> Behavioral science, cognitive functioning, decision-making.
 tags: 
 - PhD
 title: Feng Xiao
@@ -15,6 +15,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-{{< icon name="star" pack="fas" >}} _behavioral Science, Cognitive Functioning, Decision-making_  
+{{< icon name="graduation-cap" pack="fas" >}} _M.Sc. in Applied Psychology, The Chinese University of Hong Kong-Shenzhen_  
+
+{{< icon name="star" pack="fas" >}} _Behavioral science, cognitive functioning, decision-making_  
 
 

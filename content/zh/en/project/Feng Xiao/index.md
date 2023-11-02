@@ -15,6 +15,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-{{< icon name="star" pack="fas" >}} _behavioral Science, Cognitive Functioning, Decision-making_  
+{{< icon name="star" pack="fas" >}} _Behavioral science, cognitive functioning, decision-making_  
 
 
