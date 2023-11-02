@@ -17,26 +17,26 @@ zh:
   description: HD-BBM 实验室
 #  menu:
   main:
-  - name: Home
+  - name: 首页
     url: '#about'
     weight: 10
-  - name: 文章
-    url: '#posts'
-    weight: 20
-  - name: 团队
+  - name: 成员
     url: '#project'
-    weight: 30
-  - name: 发表作品
+    weight: 20
+  - name: 出版物
     url: '#featured'
+    weight: 30
+  - name: 新闻
+    url: '#posts'
     weight: 40
-  - name: 标签
-    url: '#tags'
+  - name: 基金
+    url: '#accomplishments'
     weight: 50
   - name: 联系我们
     url: '#contact'
     weight: 60
 
 #    main:
-#      - name: 传
+#      - name: 
 #        url: '#about'
 #        weight: 1

@@ -12,7 +12,7 @@ links:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=oO3kAtQAAAAJ&hl=zh-CN
 slides: example
-summary: Professor,  <br >PI of the HD-BDM Lab, <br> Director of Applied Psychology Programme at CUHKSZ
+summary: __Professor,__ <br/>__PI of the HD-BDM Lab,__ <br> __Director of Applied Psychology Programme at CUHK-SZ__
 tags:
 - Principal Investigator
 title: Xiaotian Wang

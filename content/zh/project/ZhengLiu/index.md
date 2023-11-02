@@ -15,7 +15,7 @@ links:
     icon_pack: fab
     link: https://github.com/HelenLiu0609
 slides: example
-summary: __Oct-20 ~ Jul-22__  <br/> Laziness is the true mother of coding.
+summary: __Sept-2022 ~ Present__  <br/> Social decision-making, cognitive modelling, Meta-research. <br/> Cat, coffee & garden lover.
 tags: 
 - PhD
 title: Zheng Liu
@@ -26,5 +26,6 @@ url_video: ""
 ---
 {{< icon name="graduation-cap" pack="fas" >}} _M.Ed. in Educational Psychology University of Sydney (USYD)_  
 {{< icon name="graduation-cap" pack="fas" >}} _B.Sc. in Psychology Australian National University (ANU) & Southwest University (SWU)_  
-I'm currently a Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and social decision-making. I'm intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making. 
+
+I'm currently a Ph.D student in Applied Psychology at the Chinese University of Hong Kong-Shenzhen. My research focuses on self-relatedness and social decision-making. I'm intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making. 
 

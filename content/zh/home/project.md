@@ -34,7 +34,7 @@ content:
     - name: 研究助理
       tag: RA
     - name: 毕业生
-      tag: 所有人
+      tag: Alumni
     - name: All
       tag: '*'
 design:

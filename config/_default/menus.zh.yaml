@@ -4,22 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 首页
+  - name: "<span style='font-size: 20px;'>首页</span>"
     url: '#about'
     weight: 10
-  - name: 成员
+  - name: "<span style='font-size: 20px;'>成员</span>"
     url: '#project'
     weight: 20
-  - name: 出版物
+  - name: "<span style='font-size: 20px;'>出版物</span>"
     url: '#featured'
     weight: 30
-  - name: 新闻
+  - name: "<span style='font-size: 20px;'>新闻</span>"
     url: '#posts'
     weight: 40
-  - name: 基金
+  - name: "<span style='font-size: 20px;'>基金</span>"
     url: '#accomplishments'
     weight: 50
-  - name: 联系我们
+  - name: "<span style='font-size: 20px;'>联系我们</span>"
     url: '#contact'
     weight: 60
 

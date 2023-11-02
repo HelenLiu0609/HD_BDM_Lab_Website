@@ -19,8 +19,12 @@ social:
 superuser: true
 title: HD-BDM Lab
 ---
-
 <span style="font-size: 50px;">Human Development & Behavioral Decision Making Lab</span>
 
-The HD-BDM Lab focuses on the study of human development and human decision-making process with rigorous scientific approaches.
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <span style="font-size: 24px;">The <strong>HD-BDM Lab</strong> focuses on the study of human development and human decision-making process with rigorous scientific approaches.</span>
+  </div>
+  <img src="/images/home.jpg" style="max-width: 50%;" alt="Home Image">
+</div>
 

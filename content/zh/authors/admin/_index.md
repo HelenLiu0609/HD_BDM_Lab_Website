@@ -3,7 +3,7 @@ bio: slogan.
 email: "email"
 highlight_name: true
 organizations:
-- name: School of Humanities and Social Science, The Chinese University of Hong Kong, Shenzhen
+- name: School of Humanities and Social Science, The Chinese University of Hong Kong-Shenzhen
   url: https://hss.cuhk.edu.cn/
 role: 
 social:
@@ -19,8 +19,11 @@ social:
 superuser: true
 title: HD-BDM Lab
 ---
+<span style="font-size: 50px;">人类发展与行为决策实验室</span>
 
-<span style="font-size: 50px;">Human Development & Behavioral Decision Making Lab</span>
-
-The HD-BDM Lab focuses on the study of human development and human decision-making process with rigorous scientific approaches.
-
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <span style="font-size: 24px;"><strong>HD-BDM Lab</strong> 致力于采用严格科学的方法研究人类发展和决策的过程。</span>
+  </div>
+  <img src="/images/home.jpg" style="max-width: 50%;" alt="Home Image">
+</div>

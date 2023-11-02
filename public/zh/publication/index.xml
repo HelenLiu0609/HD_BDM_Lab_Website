@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | HD BBM 的实验室</title>
+    <title>Publications | HD-BBM 实验室</title>
     <link>https://hd-bdm-lab.netlify.app/zh/publication/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/zh/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://hd-bdm-lab.netlify.app/zh/publication/</link>
     </image>
@@ -49,10 +49,46 @@
     </item>
     
     <item>
+      <title>Imprinting-like effects of early adolescent music</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_fu/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_fu/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Journal article&lt;/em&gt; button below abstract to check all other Preprint in the website.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Greater traditionalism predicts COVID-19 precautionary behaviors across 27 societies</title>
       <link>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_samore/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://hd-bdm-lab.netlify.app/zh/publication/2023_publication_samore/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Journal article&lt;/em&gt; button below abstract to check all other Preprint in the website.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Episodic future thinking and anticipatory emotions Effects on delay discounting and preventive behaviors during COVID-19</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/publication/2022_publication_wang/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/publication/2022_publication_wang/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

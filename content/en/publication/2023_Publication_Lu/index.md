@@ -22,7 +22,7 @@ publication: In *Psychological Bulletin*
 publication_short: In *Psychol Bull*
 publication_types: 
 - "2"
-publishDate: "2015-12-13T00:00:00Z"
+publishDate: "2023-10-13T00:00:00Z"
 slides: example
 summary: A long-running debate about the developmental trajectory of delay discounting has received growing attention since 1994. Relevant theories, ranging from developmental psychology and evolutionary biology to behavioral economics, yield contradictory predictions.
 tags: []

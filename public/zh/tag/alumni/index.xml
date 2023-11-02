@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alumni | HD BBM 的实验室</title>
+    <title>Alumni | HD-BBM 实验室</title>
     <link>https://hd-bdm-lab.netlify.app/zh/tag/alumni/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/zh/tag/alumni/index.xml" rel="self" type="application/rss+xml" />
     <description>Alumni</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hd-bdm-lab.netlify.app/media/icon_hu3a6db96f210420c7d44d3ddf0142fcf7_129407_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hd-bdm-lab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Alumni</title>
       <link>https://hd-bdm-lab.netlify.app/zh/tag/alumni/</link>
     </image>
-    
-    <item>
-      <title>Biyue Yu</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/biyue-yu/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/biyue-yu/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Decision making, Cognitive psychology, Counseling&lt;/em&gt;&lt;br&gt;
-Kpop, dancing, piano, guzheng, music, photography, learn about different cultures, ancient cultures.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Biyue Yu</title>
@@ -31,17 +20,6 @@ Kpop, dancing, piano, guzheng, music, photography, learn about different culture
       <description>&lt;p&gt;
   &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Decision making, Cognitive psychology, Counseling&lt;/em&gt;&lt;br&gt;
 Kpop, dancing, piano, guzheng, music, photography, learn about different cultures, ancient cultures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jingyi Fang</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/jingyi-fang/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/jingyi-fang/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Social media, Episodic future thinking&lt;/em&gt;&lt;br&gt;
-Photography, badminton, calligraphy, BRPG, music, and everything rational plus romantic.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,36 +36,13 @@ Photography, badminton, calligraphy, BRPG, music, and everything rational plus r
     
     <item>
       <title>Qimei Peng</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/qimei-peng/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/qimei-peng/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Brain mechanisms of Meditation, Intertemporal decision making&lt;/em&gt;&lt;br&gt;
-
-  &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Qimei Peng</title>
       <link>https://hd-bdm-lab.netlify.app/zh/project/qimei-peng/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://hd-bdm-lab.netlify.app/zh/project/qimei-peng/</guid>
       <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Brain mechanisms of Meditation, Intertemporal decision making&lt;/em&gt;&lt;br&gt;
+  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Brain mechanisms of Meditation, intertemporal decision making&lt;/em&gt;&lt;br&gt;
 
   &lt;i class=&#34;fas fa-graduation-cap  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;M.Sc. in Applied Psychology The Chinese University of Hong Kong (Shenzhen)&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rongman Sun</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/rongman-sun/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/rongman-sun/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Developmental psychology, Mental health of children and adolesences&lt;/em&gt;&lt;br&gt;
-Traveling, movies, badminton, piano, dancing.&lt;/p&gt;
 </description>
     </item>
     
@@ -104,31 +59,11 @@ Traveling, movies, badminton, piano, dancing.&lt;/p&gt;
     
     <item>
       <title>Xihan Hu</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/xihan-hu/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/xihan-hu/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Moraility, Dishonesty, Decision making&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Xihan Hu</title>
       <link>https://hd-bdm-lab.netlify.app/zh/project/xihan-hu/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://hd-bdm-lab.netlify.app/zh/project/xihan-hu/</guid>
       <description>&lt;p&gt;
   &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Moraility, Dishonesty, Decision making&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zhengqian Li</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/en/project/zhengqian-li/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/en/project/zhengqian-li/</guid>
-      <description>&lt;p&gt;
-  &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Social decision making, Menetal Health&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

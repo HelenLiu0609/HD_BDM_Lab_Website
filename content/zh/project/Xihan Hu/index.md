@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: example
-summary: 
+summary: __Master Student, Class of 2023__  <br/> Moraility, dishonesty.
 tags: 
 - Alumni
 title: Xihan Hu
