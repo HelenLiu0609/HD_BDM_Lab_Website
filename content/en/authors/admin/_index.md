@@ -1,6 +1,6 @@
 ---
-bio: slogan.
-email: "email"
+bio: 契而不舍。
+email: "xtwang@cuhk.edu.cn"
 highlight_name: true
 organizations:
 - name: School of Humanities and Social Science, The Chinese University of Hong Kong-Shenzhen

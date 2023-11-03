@@ -35,7 +35,7 @@ content:
       tag: RA
     - name: 毕业生
       tag: Alumni
-    - name: All
+    - name: 所有人
       tag: '*'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
