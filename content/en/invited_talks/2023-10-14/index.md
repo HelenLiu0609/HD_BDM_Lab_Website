@@ -1,12 +1,12 @@
 ---
-title: 王晓田教授应邀将在第二十五届全国心理学学术会议上作重点报告
+title: Professor Wang Xiaotian Invited to Deliver Keynote Speech at the 25th National Academic Conference of Psychology
 author: ''
 date: '2023-10-14'
 slug: ''
 categories: []
 tags: []
 subtitle: ''
-summary: '第二十五届全国心理学学术会议于2023年10月13日在四川成都四川师范大学开幕，历时三天。王晓田教授于10月14日的重点报告题目为《生死之间：生命史框架内的跨期决策》。'
+summary: The 25th National Psychology Conference opened on October 13, 2023, at Sichuan Normal University in Chengdu, Sichuan. The conference, spanning three days, featured a keynote speech by Professor Wang Xiaotian on October 14, titled "Between Life and Death Intertemporal Decision-Making within the Framework of Life History Theory" 
 authors: []
 lastmod: '2023-11-02T20:01:21+08:00'
 featured: no
@@ -16,16 +16,16 @@ image:
   preview_only: no
 projects: []
 ---
-本文转自香港中文大学深圳人文社科学院微信公众号。
+This article is sourced from the official WeChat account of the School of Humanities and Social Sciences at the Chinese University of Hong Kong, Shenzhen.
 <br>
 <br>
-第二十五届全国心理学学术会议于2023年10月13日在四川成都四川师范大学开幕，历时三天。王晓田教授于10月14日的重点报告题目为《生死之间：生命史框架内的跨期决策》。（会议通知：http://nacp2023.psysoc.org.cn/）
+The 25th National Psychology Conference opened on October 13, 2023, at Sichuan Normal University in Chengdu, Sichuan. The conference, spanning three days, featured a keynote speech by Professor Wang Xiaotian on October 14, titled "Between Life and Death: Intertemporal Decision-Making within the Framework of Life History Theory" (Conference Announcement: http://nacp2023.psysoc.org.cn/).
 <br>
 <br>
-### 报告摘要
-经济学和心理学的大多数学说背后都存在着两个共同的前提：时间的有限性和资源的有限性。我们的一个系列研究探讨了时间有限性也就是生命有限性如何塑造人类的行为。每个人与时间的交互仅仅存在于短暂或漫长的一生之中，所以心理学需要关注生命史和生命史理论。不同于其他动物，自主意识(autonoetic consciousness) 使人类能够有意识地在有限的生命中规划人生并依此决策。决定一个人世界观（时间观和价值观）的不仅仅是时间的感知和时间观，还在于我们如何感知和应对生命的两大特性：死亡的必然性（inevitability of death）和死亡的不确定性/无常性（uncertainty of death）。在报告中我将展示如何在生命史的框架内通过调节死亡的必然性和不确定性影响个体或人群的延迟折扣（未来折扣），如何通过元分析建模比较不同的发展心理学理论并从178 个样本中生成全生命史的延迟折扣的年龄曲线，以及我们目前的研究进展和相关思考。
+### Abstract of the Speech
+Most economic and psychological theories share two common assumptions: the finiteness of time and the finiteness of resources. Our series of studies explore how the finiteness of time, or rather, the finiteness of life, shapes human behavior. Each individual's interaction with time occurs within the brief or extended span of a lifetime, making it essential for psychology to focus on life histories and life history theories. Unlike other animals, human beings possess autonoetic consciousness, enabling them to consciously plan their lives within the limited time they have and make decisions accordingly. One's worldview, encompassing their perception of time and values, is influenced not only by the perception of time but also by how they perceive and respond to two fundamental aspects of life: the inevitability of death and the uncertainty/impermanence of death. In this presentation, I will demonstrate how adjusting the inevitability and uncertainty of death within the framework of life history can impact individuals or populations' delay discounting (future discounting). I will also discuss how we use meta-analysis to compare different developmental psychological theories, generate age curves for delay discounting across the entire life history from 178 samples, and present our current research progress and related reflections.
 
 <br>
 
-[报告回放](https://cuhko365-my.sharepoint.com/:v:/g/personal/xtwang_cuhk_edu_cn/ET9gGd8YmbtFlOXw-zfsUQABIna2GV0QyC3pjumymIzK9A?e=7cOBbe)
+[Speech Replay](https://cuhko365-my.sharepoint.com/:v:/g/personal/xtwang_cuhk_edu_cn/ET9gGd8YmbtFlOXw-zfsUQABIna2GV0QyC3pjumymIzK9A?e=7cOBbe)
 
