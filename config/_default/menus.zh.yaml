@@ -10,7 +10,7 @@ main:
   - name: "<span style='font-size: 20px;'>成员</span>"
     url: '#project'
     weight: 20
-  - name: "<span style='font-size: 20px;'>出版物</span>"
+  - name: "<span style='font-size: 20px;'>研究成果</span>"
     url: '#featured'
     weight: 30
   - name: "<span style='font-size: 20px;'>新闻</span>"

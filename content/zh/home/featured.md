@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 出版物
+title: 研究成果
 subtitle: ''
 
 content:
