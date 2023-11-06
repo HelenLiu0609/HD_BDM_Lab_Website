@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: 被邀请
+title: 受邀演讲
 subtitle:
 
 content:
