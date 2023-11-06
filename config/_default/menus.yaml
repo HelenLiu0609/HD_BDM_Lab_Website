@@ -19,7 +19,7 @@ main:
   - name: "<span style='font-size: 20px;'>Invited Talks</span>"
     url: '#posts_invited_talks'
     weight: 45
-  - name: "<span style='font-size: 20px;'>Grands</span>"
+  - name: "<span style='font-size: 20px;'>Funding & Projects</span>"
     url: '#accomplishments'
     weight: 50
   - name: "<span style='font-size: 20px;'>Contact</span>"
