@@ -394,6 +394,20 @@
                 href="https://hd-bdm-lab.netlify.app/zh/project/feng-xiao/"
                 />
   </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/project/hongfu-guo/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/project/hongfu-guo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/project/hongfu-guo/"
+                />
+  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/project/huaying-liu/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -532,6 +546,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/project/xihan-hu/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/project/xuejing-lin/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/project/xuejing-lin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/project/xuejing-lin/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/project/yangyang-jin/</loc>
