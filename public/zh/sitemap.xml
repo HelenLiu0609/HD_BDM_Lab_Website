@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
-    <lastmod>2023-11-02T20:01:21+08:00</lastmod>
+    <lastmod>2024-04-17T11:59:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/</loc>
-    <lastmod>2023-11-02T20:01:21+08:00</lastmod>
+    <lastmod>2024-04-17T11:59:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +28,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/invited_talks/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/psy/</loc>
+    <lastmod>2024-04-17T11:59:04+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/invited_talks/psy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/invited_talks/psy/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/east/</loc>
