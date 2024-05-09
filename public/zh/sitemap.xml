@@ -2,8 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/2024-04-28/</loc>
+    <lastmod>2024-05-09T16:51:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/invited_talks/2024-04-28/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/invited_talks/2024-04-28/"
+                />
+  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
-    <lastmod>2024-04-17T11:59:04+08:00</lastmod>
+    <lastmod>2024-05-09T16:51:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -17,7 +31,7 @@
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/</loc>
-    <lastmod>2024-04-17T11:59:04+08:00</lastmod>
+    <lastmod>2024-05-09T16:51:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
