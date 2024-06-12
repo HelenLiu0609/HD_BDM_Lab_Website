@@ -2,8 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/publication-type/2/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/publication-type/2/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/publication/2024_publication_liu/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/publication/2024_publication_liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/publication/2024_publication_liu/"
+                />
+  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +42,34 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/publication_types/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/publication_types/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/publication/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/publication/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/project/</loc>
@@ -128,20 +184,6 @@
                 href="https://hd-bdm-lab.netlify.app/zh/invited_talks/psy/"
                 />
   </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/publication-type/2/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/publication-type/2/"
-                />
-  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/publication/2024_publication_wang/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -154,34 +196,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/publication/2024_publication_wang/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/publication_types/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/publication_types/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/publication/</loc>
-    <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/publication/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/east/</loc>
