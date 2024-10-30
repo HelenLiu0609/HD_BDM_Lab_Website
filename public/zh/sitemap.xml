@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
+    <lastmod>2024-10-25T16:51:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/</loc>
+    <lastmod>2024-10-25T16:51:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/invited_talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/invited_talks/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/2024-10-25/</loc>
+    <lastmod>2024-10-25T16:51:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/invited_talks/2024-10-25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/invited_talks/2024-10-25/"
+                />
+  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/post/2024-09-25-forum/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,20 +56,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/post/2024-09-25-forum/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/post/</loc>
@@ -182,20 +210,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/invited_talks/2024-04-28/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/</loc>
-    <lastmod>2024-05-09T16:51:06+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/invited_talks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/invited_talks/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/psy/</loc>
