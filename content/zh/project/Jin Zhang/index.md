@@ -1,5 +1,5 @@
 ---
-date: "2024-09-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 external_link: ""
 image:
   caption: Jin Zhang
@@ -9,7 +9,7 @@ slides: example
 summary: __Sept-2024 ~ Present__  <br/> 恒则成
 tags: 
 - PhD
-title: Zheng Liu
+title: Jin Zhang
 url_code: ""
 url_pdf: ""
 url_slides: ""

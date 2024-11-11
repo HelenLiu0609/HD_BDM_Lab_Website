@@ -72,62 +72,6 @@
                 href="https://hd-bdm-lab.netlify.app/post/"
                 />
   </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/tag/phd/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/tag/phd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/tag/phd/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/project/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/project/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/tags/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/tags/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/project/jin-zhang/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/project/jin-zhang/"
-                />
-  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/publication-type/2/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,6 +128,20 @@
                 href="https://hd-bdm-lab.netlify.app/publication/"
                 />
   </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/project/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/project/"
+                />
+  </url><url>
     <loc>https://hd-bdm-lab.netlify.app/tag/ra/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -196,6 +154,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hd-bdm-lab.netlify.app/tag/ra/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/tags/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/tags/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/project/zhihao-yang/</loc>
@@ -438,6 +410,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hd-bdm-lab.netlify.app/publication/2022_publication_li/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/tag/phd/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/tag/phd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/tag/phd/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/project/zhengliu/</loc>
@@ -746,6 +732,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hd-bdm-lab.netlify.app/project/zhonghan-wang/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/project/jin-zhang/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/project/jin-zhang/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/publication/2021_publication_li/</loc>

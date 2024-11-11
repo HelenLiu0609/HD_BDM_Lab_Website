@@ -5,23 +5,12 @@
     <link>https://hd-bdm-lab.netlify.app/zh/project/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/zh/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hd-bdm-lab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://hd-bdm-lab.netlify.app/zh/project/</link>
     </image>
-    
-    <item>
-      <title>Zheng Liu</title>
-      <link>https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/</guid>
-      <description>&lt;p&gt;M.Sc. in Health Psychology, University College London;&lt;br&gt;
-B.A. in Psychology, University of California, Davis.&lt;br&gt;
-Interested in Intertemporal choice, Time perception, Reward system.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Zhihao Yang</title>
@@ -265,6 +254,17 @@ Traveling, movies, badminton, piano, dancing.&lt;/p&gt;
       <description>&lt;p&gt;
   &lt;i class=&#34;fas fa-star  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;em&gt;Risk factors (e.g. stress) and protective factors (e.g. coping) of negative outcomes (e.g. suicide), Decision making, Life history theory&lt;/em&gt;&lt;br&gt;
 Table tennis, music drama, board role-playing games.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jin Zhang</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/jin-zhang/</guid>
+      <description>&lt;p&gt;M.Sc. in Health Psychology, University College London;&lt;br&gt;
+B.A. in Psychology, University of California, Davis.&lt;br&gt;
+Interested in Intertemporal choice, Time perception, Reward system.&lt;/p&gt;
 </description>
     </item>
     
