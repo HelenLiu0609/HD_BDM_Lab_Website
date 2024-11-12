@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hd-bdm-lab.netlify.app/zh/</loc>
-    <lastmod>2024-10-25T16:51:06+08:00</lastmod>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -14,6 +14,34 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/post/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/post/"
+                />
+  </url><url>
+    <loc>https://hd-bdm-lab.netlify.app/zh/post/2024-11-12-rr/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hd-bdm-lab.netlify.app/post/2024-11-12-rr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://hd-bdm-lab.netlify.app/zh/post/2024-11-12-rr/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/invited_talks/</loc>
@@ -56,20 +84,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://hd-bdm-lab.netlify.app/zh/post/2024-09-25-forum/"
-                />
-  </url><url>
-    <loc>https://hd-bdm-lab.netlify.app/zh/post/</loc>
-    <lastmod>2024-09-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hd-bdm-lab.netlify.app/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hd-bdm-lab.netlify.app/zh/post/"
                 />
   </url><url>
     <loc>https://hd-bdm-lab.netlify.app/zh/publication-type/2/</loc>
