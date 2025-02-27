@@ -1,6 +1,7 @@
 ---
 title: 'Good News | Professor Xiaotian Wang s Research Team Publishes in APA s Flagship Journal American Psychologist'
 date: '2024-11-12'
+summary: On January 30, 2025, a study by Professor Xiaotian Wang's team was published online in the prestigious journal American Psychologist (Impact Factor 12.3, 5-year Impact Factor 16.2). The first author of the paper is Zheng Liu, a Ph.D. 
 ---
 
 On January 30, 2025, a study by Professor Xiaotian Wang's team was published online in the prestigious journal American Psychologist (Impact Factor: 12.3, 5-year Impact Factor: 16.2). The first author of the paper is Zheng Liu, a Ph.D. student in Applied Psychology (cohort 2022) at The Chinese University of Hong Kong (Shenzhen), and the corresponding author is Professor Xiaotian Wang. The other authors include Zhonghan Wang, Weijin Yan, and Mengzhen Hu from the research team. 
