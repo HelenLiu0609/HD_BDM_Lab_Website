@@ -12,11 +12,11 @@ authors:
 - Wang, XT
 date: "2025-08-01T00:00:00Z"
 doi: "10.1093/scan/nsaf080"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 projects: ""
 publication: In *Social Cognitive and Affective Neuroscience*
 publication_short: In *Social Cognitive and Affective Neuroscience*
