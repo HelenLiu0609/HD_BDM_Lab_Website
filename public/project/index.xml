@@ -5,12 +5,39 @@
     <link>https://hd-bdm-lab.netlify.app/project/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hd-bdm-lab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://hd-bdm-lab.netlify.app/project/</link>
     </image>
+    
+    <item>
+      <title>Fan Gao</title>
+      <link>https://hd-bdm-lab.netlify.app/project/fan-gao/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/fan-gao/</guid>
+      <description>&lt;p&gt;Research Field: H-M social systems; Decision-making; Pro-social behavior&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jovan Hua</title>
+      <link>https://hd-bdm-lab.netlify.app/project/jovan-hua/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/jovan-hua/</guid>
+      <description>&lt;p&gt;Research Field: Behavioral decision making, Life-History Intertemporal Meditation, Mindfulness Meditation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yajing Bai</title>
+      <link>https://hd-bdm-lab.netlify.app/project/yajing-bai/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/project/yajing-bai/</guid>
+      <description>&lt;p&gt;Research Field: decision making using large language models&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Zhihao Yang</title>

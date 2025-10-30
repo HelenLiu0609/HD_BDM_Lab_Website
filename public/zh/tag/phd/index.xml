@@ -5,12 +5,39 @@
     <link>https://hd-bdm-lab.netlify.app/zh/tag/phd/</link>
       <atom:link href="https://hd-bdm-lab.netlify.app/zh/tag/phd/index.xml" rel="self" type="application/rss+xml" />
     <description>PhD</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hd-bdm-lab.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>PhD</title>
       <link>https://hd-bdm-lab.netlify.app/zh/tag/phd/</link>
     </image>
+    
+    <item>
+      <title>Fan Gao</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/fan-gao/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/fan-gao/</guid>
+      <description>&lt;p&gt;Research Field: H-M social systems; Decision-making; Pro-social behavior&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jovan Hua</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/jovan-hua/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/jovan-hua/</guid>
+      <description>&lt;p&gt;Research Field: Behavioral decision making, Life-History Intertemporal Meditation, Mindfulness Meditation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yajing Bai</title>
+      <link>https://hd-bdm-lab.netlify.app/zh/project/yajing-bai/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://hd-bdm-lab.netlify.app/zh/project/yajing-bai/</guid>
+      <description>&lt;p&gt;Research Field: decision making using large language models&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Zheng Liu</title>
